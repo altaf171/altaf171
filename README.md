@@ -1,6 +1,6 @@
 - 👋 Hi, I’m altaf husen
 - 👀 I’m interested in python and related technologies
-- 🌱 I’m currently learning django, DRF
+- 🌱 I have hands  on experience in python, django, DRF
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 reach me on linkdin https://www.linkedin.com/in/altaf-husen-6a1838129/
 <!---
